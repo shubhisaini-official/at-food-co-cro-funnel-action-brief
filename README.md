@@ -1,4 +1,4 @@
-# cro-funnel-drop-action-brief
+# at-food-co-cro-funnel-action-brief
 CRO action brief and Explainable AI pipeline for AT Food Co. Identifies 60% search-to-cart funnel leaks, prioritizes call feedback root causes, executes causal A/B testing, and deploys SHAP/LIME conversion explain ability.
 # 📉 AT Food Co. — E-Commerce CRO Action Brief & Explainable AI Pipeline
 > **Conversion Rate Optimization & Causal Analytics: Funnel Drop Identification, Qualitative Root-Cause Bucketing, Causal A/B Testing, and SHAP/LIME Model Explainability**
